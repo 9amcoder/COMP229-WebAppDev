@@ -1,0 +1,13 @@
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\bin\Debug\netcoreapp3.1\Week01.exe
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\bin\Debug\netcoreapp3.1\Week01.deps.json
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\bin\Debug\netcoreapp3.1\Week01.runtimeconfig.json
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\bin\Debug\netcoreapp3.1\Week01.runtimeconfig.dev.json
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\bin\Debug\netcoreapp3.1\Week01.dll
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\bin\Debug\netcoreapp3.1\Week01.pdb
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\obj\Debug\netcoreapp3.1\Week01.csprojAssemblyReference.cache
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\obj\Debug\netcoreapp3.1\Week01.AssemblyInfoInputs.cache
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\obj\Debug\netcoreapp3.1\Week01.AssemblyInfo.cs
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\obj\Debug\netcoreapp3.1\Week01.csproj.CoreCompileInputs.cache
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\obj\Debug\netcoreapp3.1\Week01.dll
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\obj\Debug\netcoreapp3.1\Week01.pdb
+C:\Users\sulta\OneDrive\Desktop\2020FallSem\COMP229-WebAppDev\Week01\obj\Debug\netcoreapp3.1\Week01.genruntimeconfig.cache
